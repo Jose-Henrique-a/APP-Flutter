@@ -8,7 +8,7 @@ Banco de dados fica em seu navegador.
 E aqui o link da versão aplicativo(APK) para Android, com banco de dados "dentro" do aplicativo.
 Clique e baixe direto no seu celular: https://drive.google.com/uc?export=download&id=1OKlwvRrfFhaCdTnMgXMBzG-yJm_Aa2dK .
 
-Como este app está fora da Play Store, você precisa dar permissões em seu celular para baixar aplicativos de fontes externas. 
+Como este app está fora da Play Store, você precisa conceder permissões em seu celular para baixar aplicativos de fontes externas. 
 
 Em breve a versão para iOS IPA para você baixar no seu Iphone.
 
